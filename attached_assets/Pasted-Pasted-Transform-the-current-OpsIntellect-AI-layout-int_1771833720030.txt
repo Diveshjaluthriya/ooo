@@ -1,0 +1,36 @@
+Pasted-Transform-the-current-OpsIntellect-AI-layout-into-a-hig_1771631982776.txt
+Transform the current OpsIntellect AI layout into a high-energy, premium interactive experience by shifting from a static grid to a "fluid-motion" architecture.
+
+
+
+1. Visual Style & Backgrounds
+
+Layered Depth: Replace static background grids with high-resolution, grainy-textured background images using a deep indigo and muted sage palette.
+
+Parallax Image Masks: Implement "organic masking" for all photography. Images should sit inside pill-shaped or circular containers that subtly expand and contract as the user scrolls.
+
+Grainy Overlays: Add a subtle animated noise/grain filter over the entire site to give it a cinematic, high-end agency feel.
+
+2. Interactive Features
+
+Magnetic Cursor & CTAs: Upgrade all buttons (e.g., "Automate My Business") to "Magnetic Buttons." They should have a 50px attraction radius where the button physically "tugs" toward the user's cursor.
+
+Horizontal Scroll Sections: Convert the "Industries We Serve" and "Services" sections into a horizontal-scrolling carousel that triggers as the user scrolls vertically.
+
+Split-Text Reveal: Use framer-motion to animate headlines letter-by-letter or word-by-word (staggered reveal) rather than fading in as a whole block.
+
+Floating Navigation: Redesign the header into a floating "pill" navigation bar that shrinks on scroll and expands on hover.
+
+3. Content Structure Enhancements
+
+The "Process" Timeline: Instead of a simple list, make the "Audit → Diagnose → Automate" workflow a scroll-reactive timeline where each step lights up as it enters the center of the viewport.
+
+Dynamic Case Studies: Implement a "Before/After" slider for ROI stats (e.g., "40hrs/week saved") that users can interact with manually.
+
+4. Technical Stack Requirements
+
+Animation Engine: Prioritize framer-motion for physics-based transitions.
+
+Smooth Scroll: Integrate Lenis.js to ensure the scrolling feels "heavy" and smooth, preventing the "staccato" feel of default browser scrolling.
+
+Typography: Maintain Inter and Space Grotesk, but increase the weight and scale of hero headlines to "Display" sizes (e.g., 120px+).
